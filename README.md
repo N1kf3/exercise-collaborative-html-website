@@ -64,7 +64,6 @@ The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-
 
 Partes del proyecto:
 Zaida ->
-Wilfredo ->
-Reimar ->
-Juan Parra-> 
-
+Wilfredo -> Nav y Contac
+Reimar -> Porfolio y tagline
+Juan Parra->  first-heading y services
