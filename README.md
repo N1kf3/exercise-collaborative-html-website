@@ -63,7 +63,11 @@ Everyone delivers the same repo as solution.
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
 Partes del proyecto:
-Zaida ->
+
+Zaida -> tagline
+
 Wilfredo -> Nav y Contac
-Reimar -> Porfolio y tagline
+
+Reimar -> Porfolio 
+
 Juan Parra->  first-heading y services
